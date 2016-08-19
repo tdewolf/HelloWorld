@@ -1,0 +1,5 @@
+Hello World!
+============
+
+The infamous hello world project, use this project to play around with git whenever you're a newbie to git.
+
